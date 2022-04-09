@@ -13,3 +13,36 @@
  *= require_tree .
  *= require_self
  */
+
+.headline {
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  line-height: 18px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+ .top-text {
+   font-family: verdana, arial, helvetica, sans-serif;
+   font-size: 13px;
+   line-height: 18px;
+   margin: 33px;
+ }
+
+ .top-link {
+   font-family: verdana, arial, helvetica, sans-serif;
+   font-size: 13px;
+   line-height: 18px;
+   margin: 33px;
+ }
+
+ .show-text {
+   font-family: verdana, arial, helvetica, sans-serif;
+   font-size: 13px;
+   line-height: 18px;
+   margin: 33px;
+ }
+
+
